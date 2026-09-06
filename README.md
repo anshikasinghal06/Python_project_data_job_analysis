@@ -55,7 +55,7 @@ plt.show()
 
 A single-year snapshot hides whether a skill is rising or fading. I broke down the top 5 Data Analyst skills by posting month across 2023, converting each to a percentage of that month's postings so the trend isn't distorted by month-to-month volume changes.
 
-📓 [3_Skills_trend.ipynb](3_Skills_trend.ipynb)
+📓 [3_Skills_trend.ipynb](https://github.com/anshikasinghal06/Python_project_data_job_analysis/blob/main/3_Skills_trend.ipynb)
 
 #### Approach
 1. Aggregate skill mentions per month
@@ -98,7 +98,7 @@ plt.show()
 
 Demand only tells half the story — the other half is compensation. I first zoomed out to compare salary ranges across six related data job titles (to see where Data Analyst sits in the broader pay ladder), then zoomed back in to compare specific skills within the Data Analyst role itself.
 
-📓 [4_Salary_analysis.ipynb](4_Salary_analysis.ipynb)
+📓 [4_Salary_analysis.ipynb](https://github.com/anshikasinghal06/Python_project_data_job_analysis/blob/main/4_Salary_analysis.ipynb)
 
 #### Approach
 1. Compare median salary across the top 6 data job titles
@@ -164,7 +164,7 @@ plt.show()
 
 This is where the previous two analyses combine. Instead of treating demand and salary as separate charts, I plotted every skill on both axes at once — percent of postings on the x-axis, median salary on the y-axis — so the "sweet spot" skills reveal themselves visually as the points furthest to the upper-right.
 
-📓 [5_Optimal_skills.ipynb](5_Optimal_skills.ipynb)
+📓 [5_Optimal_skills.ipynb](https://github.com/anshikasinghal06/Python_project_data_job_analysis/blob/main/5_Optimal_skills.ipynb)
 
 #### Approach
 1. Reuse the percent-of-postings figures calculated earlier
