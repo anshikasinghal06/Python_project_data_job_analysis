@@ -25,7 +25,7 @@ Job postings contain a lot of noise — this project cuts through it to answer f
 
 Rather than looking at skills in isolation, I compared them side-by-side across the three most common data job titles, ranking each role's top 5 requested skills by the share of postings mentioning them. This makes it easy to see which skills are shared across roles and which are role-specific.
 
-📓 [2_Skills_demand.ipynb](2_Skill_demand.ipynb)
+📓 [2_Skills_demand.ipynb](https://github.com/anshikasinghal06/Python_project_data_job_analysis/blob/main/2_Skill_demand.ipynb)
 
 #### Code
 
